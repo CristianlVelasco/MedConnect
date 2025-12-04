@@ -1,9 +1,14 @@
 
   # MedConnect Telemedicine Platform
+
   Wilson Espinal
+  
   Cristian Velasco
+  
   Diego Payan
+  
   Samuel Lozano
+  
   ## Running the code
 
   Run `npm i` to install the dependencies.

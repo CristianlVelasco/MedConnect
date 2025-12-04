@@ -1,8 +1,9 @@
 
   # MedConnect Telemedicine Platform
-
-  This is a code bundle for MedConnect Telemedicine Platform. The original project is available at https://www.figma.com/design/SewEPFyqzsYzhavdUQGTO6/MedConnect-Telemedicine-Platform.
-
+  Wilson Espinal
+  Cristian Velasco
+  Diego Payan
+  Samuel Lozano
   ## Running the code
 
   Run `npm i` to install the dependencies.
